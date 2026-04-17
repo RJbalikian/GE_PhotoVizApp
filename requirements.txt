@@ -1,6 +1,6 @@
 rioxarray
 pandas
-PIL
+pillow
 pyproj
 geopandas
 matplotlib
