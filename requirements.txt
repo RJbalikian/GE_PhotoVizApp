@@ -1,5 +1,6 @@
 rioxarray
 pandas
+PIL
 pyproj
 geopandas
 matplotlib
