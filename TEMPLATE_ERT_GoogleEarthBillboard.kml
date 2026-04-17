@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <PhotoOverlay>
+    <name>Vertical Geologic Cross-Section</name>
+    <Camera>
+      <longitude>-88.2261</longitude>
+      <latitude>40.05775</latitude>
+      <altitude>100</altitude>
+      <heading>58</heading> <tilt>90</tilt>
+      <roll>0</roll>
+    </Camera>
+    <Icon>
+      <href>CropsSci_resipyCropAlpha.png</href>
+    </Icon>
+    <ViewVolume>
+      <leftFov>-26.5</leftFov>
+      <rightFov>26.5</rightFov>
+      <bottomFov>-14</bottomFov>
+      <topFov>0</topFov>
+      <near>400</near> </ViewVolume>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>-88.22258,40.05940,50</coordinates>
+    </Point>
+    <shape>rectangle</shape>
+  </PhotoOverlay>
+</kml>
